@@ -20,9 +20,19 @@ pip install -r requirements.txt
 #### NMF
 
 1. Open `nmf.ipynb` in your preferred Jupyter Notebook editor.
-2. Run all cells.
+2. Select the kernel to be the virtual environment.
+3. Run all cells.
 
 #### ICA
 
 1. Open `ica.ipynb` in your preferred Jupyter Notebook editor.
-2. Run all cells.
+2. Select the kernel to be the virtual environment.
+3. Run all cells.
+
+#### Umap and DBSCAN Clustering
+
+1. Open `componentfinder.ipynb` in your preferred Jupyter Notebook editor.
+2. Select the kernel to be the virtual environment.
+3. Run all cells.
+
+
